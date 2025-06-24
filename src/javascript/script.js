@@ -4,8 +4,8 @@ document.querySelector('#search').addEventListener('submit', async (event) =>{
     const _cityName = document.querySelector('#city_name').value;
     
     if(!_cityName){
-        ShowAlert("Você precisa digitar uma cidade...")
         document.querySelector("#weather").classList.remove('show');
+        showAlert('Você precisa digitar uma cidade...');
         return;
     }
 
