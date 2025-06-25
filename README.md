@@ -3,7 +3,7 @@
 <p>Este projeto consiste na criação de um site que mostra o clima atual em cada estado.</p>
 <p align="center">
   <a href="https://felipecostaq.github.io/WeatherForecast/">
-    <img height="425" width="825" src="https://github.com/FelipeCostaq/web-portfolio/blob/main/portfolio.png?raw=true" alt="Imagem do Site WeatherForecast">
+    <img height="425" width="825" src="https://github.com/FelipeCostaq/WeatherForecast/blob/main/weatherForecastImage.png" alt="Imagem do Site WeatherForecast">
   </a>
 </p>
 <h2>Tecnologias utilizadas</h2>
