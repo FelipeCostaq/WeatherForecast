@@ -1,6 +1,6 @@
 <h1>Weather Forecast</h1>
 <h2>Descrição</h2>
-<p>Este projeto consiste na criação de um site que mostra o clima atual em cada estado.</p>
+<p>Este projeto consiste na criação de um site que consulta o clima atual.</p>
 <p align="center">
   <a href="https://felipecostaq.github.io/WeatherForecast/">
     <img height="425" width="625" src="https://github.com/FelipeCostaq/WeatherForecast/blob/main/weatherForecastImage.png" alt="Imagem do Site WeatherForecast">
